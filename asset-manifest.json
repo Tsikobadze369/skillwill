@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/skillwill/static/css/main.2acace63.css",
+    "main.js": "/skillwill/static/js/main.07d4c7f8.js",
+    "static/media/The Master and Margarita.webp": "/skillwill/static/media/The Master and Margarita.a4d4ad027c9ac5a5fe36.webp",
+    "static/media/Shagreen leather.webp": "/skillwill/static/media/Shagreen leather.3a197a816d57489fa249.webp",
+    "static/media/The Red and the Black.webp": "/skillwill/static/media/The Red and the Black.59e18f8d266838d36946.webp",
+    "static/media/The Picture of Dorian Gray.webp": "/skillwill/static/media/The Picture of Dorian Gray.58ef04f4a6f34eb6420d.webp",
+    "index.html": "/skillwill/index.html",
+    "main.2acace63.css.map": "/skillwill/static/css/main.2acace63.css.map",
+    "main.07d4c7f8.js.map": "/skillwill/static/js/main.07d4c7f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2acace63.css",
+    "static/js/main.07d4c7f8.js"
+  ]
+}
